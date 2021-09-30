@@ -14,11 +14,11 @@ export default function Info(props){
     const [page, setPage] = useState(pages.JOIN);
 
     function joinInfo(){
-        return "Join Page";
+        return "JOIN : User can join a room through a code.";
     }
 
     function createInfo(){
-        return "Create Page";
+        return "CREATE : Host can create a room and authenticated through Spotify.";
     }
     
 
