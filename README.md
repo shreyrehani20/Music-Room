@@ -1,4 +1,4 @@
-# 🎵 Spotify Room Controller App
+# 🎵 GroupTune – Spotify Room Player
 
 A full-stack web application that allows users to create or join virtual music rooms and collaboratively control Spotify playback. Built using **React**, **Django**, and the **Spotify Web API**, this project demonstrates OAuth-based authentication, real-time voting logic, and role-based access control.
 
@@ -28,3 +28,6 @@ A full-stack web application that allows users to create or join virtual music r
 - **Frontend:** React.js, React Router, Material-UI
 - **Backend:** Django, Django REST Framework, Django Sessions
 - **Integration:** Spotify Web API, OAuth 2.0, Axios
+
+
+[GroupTune – Spotify Room Player Docs.pdf](https://github.com/user-attachments/files/21005480/GroupTune.Spotify.Room.Player.Docs.pdf)
